@@ -42,7 +42,7 @@ canvas {
     position: absolute;
     width: 100%;
     height: 100%;
-    background-color: #e3dedb;
+    background-color: #cb2412;
     background-image: url("");
     background-repeat: no-repeat;
     background-size: cover;
@@ -62,7 +62,7 @@ canvas {
 
 .cardFront {
     position: relative;
-    background-color: #f2e3c6;
+    background-color: #a19885;
     width: 450px;
     height: 550px;
     overflow: hidden;
